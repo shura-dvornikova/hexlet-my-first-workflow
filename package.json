@@ -1,0 +1,12 @@
+{
+  "name": "hexlet-my-first-workflow",
+  "version": "1.0.0",
+  "description": "hexlet-my-first-workflow ![show-directory](https://github.com/shura-dvornikova/hexlet-my-first-workflow/actions/workflows/show-directory.yml/badge.svg)](https://github.com/shura-dvornikova/hexlet-my-first-workflow/actions/workflows/show-directory.yml)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
